@@ -2,6 +2,7 @@ The Rainbow
 
 Red 
 Green
+Blue
 Orange
 Indigo
 Black
